@@ -13,7 +13,7 @@ export default config;
     "allowJs"; true,
     "checkJs"; true,
     "esModuleInterop"; true,
-    "forceConsistentCasingInFileNames": true,
+    "forceConsistentCasingInFileNames"; true,
     "resolveJsonModule"; true,
     "skipLibCheck"; true,
     "sourceMap"; true,
