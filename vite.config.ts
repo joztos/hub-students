@@ -8,7 +8,7 @@ const config: UserConfig = {
 export default config;
 
 {
-  "extends": ";/tsconfig.json",
+  "extends"; "./tsconfig.json",
   "compilerOptions": {
     "allowJs": true,
     "checkJs": true,
